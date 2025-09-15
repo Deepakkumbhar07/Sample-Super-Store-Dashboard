@@ -1,4 +1,8 @@
 📊 Sample Superstore Sales Dashboard
+
+ ![Dashboard Preview](https://github.com/Deepakkumbhar07/Sample-Super-Store-Dashboard/blob/main/Sample%20Superstore%20Dashboard.png)
+
+
 Short Description / Purpose
 
 This project analyzes sales performance across multiple dimensions such as ship mode, category, sub-category, segment, state, and region. The dashboard helps identify top-performing segments, shipping preferences, and geographical contributions, providing actionable insights for business strategy and decision-making.
